@@ -13,7 +13,7 @@ module NPSERS
     end
 
     def letters
-      ('a'..'b').to_a
+      ('a'..'z').to_a
     end
 
   end
