@@ -1,0 +1,5 @@
+require 'npsers/batch_url'
+require 'npsers/page'
+require 'npsers/extract_by_letter'
+require 'npsers/extract_by_page'
+require 'npsers/loader'
