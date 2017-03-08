@@ -1,4 +1,4 @@
-# NPSERS Get all the NPS Employees!
+# NPSERS: Get all the NPS Employees!
 
 A very simple library to iterate through employees contained within the [National Park Service Directory](https://www.nps.gov/directory/).
 This library parses successive HTML pages (with nokogiri) and extracts employee data. Employee data is then
