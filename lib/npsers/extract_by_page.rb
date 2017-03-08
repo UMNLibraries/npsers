@@ -10,7 +10,7 @@ module NPSERS
     def extract
       first_page[:pages].map do |page_number|
          puts "Extracting Page: #{page_number}"
-         page(page_number)
+         page(page_number)[:data]
       end
     end
 
